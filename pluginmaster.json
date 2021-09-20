@@ -78,5 +78,25 @@
         "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins4/raw/main/EnmityHp/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+    {
+        "Author": "Eternita",
+        "Name": "AntiAfkKick",
+        "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
+        "Description": "",
+        "InternalName": "AntiAfkKick-Dalamud",
+        "AssemblyVersion": "2.0.0.0",
+        "RepoUrl": "https://github.com/Eternita-S/AntiAfkKick",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins4/raw/main/AntiAfkKick/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins4/raw/main/AntiAfkKick/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins4/raw/main/AntiAfkKick/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
