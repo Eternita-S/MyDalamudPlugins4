@@ -103,7 +103,7 @@
         "Author": "Eternita",
         "Name": "Mini",
         "Punchline": "Adds a button to minimize your game",
-        "Description": "",
+        "Description": "It's in your top right corner!",
         "InternalName": "Mini",
         "AssemblyVersion": "2.0.0.0",
         "RepoUrl": "https://github.com/Eternita-S/Mini",
