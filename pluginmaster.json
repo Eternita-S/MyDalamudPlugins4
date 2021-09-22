@@ -5,7 +5,7 @@
         "Punchline": "Allows precise control over time and weather zone by zone or globally.",
         "Description": "",
         "InternalName": "Weatherman",
-        "AssemblyVersion": "2.2.0.0",
+        "AssemblyVersion": "2.2.0.1",
         "RepoUrl": "https://github.com/Eternita-S/Weatherman",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
