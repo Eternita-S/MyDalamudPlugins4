@@ -65,7 +65,7 @@
         "Punchline": "Displays enemies hp in enemy list",
         "Description": "",
         "InternalName": "EnmityHp",
-        "AssemblyVersion": "2.0.0.0",
+        "AssemblyVersion": "2.0.0.1",
         "RepoUrl": "https://github.com/Eternita-S/EnmityHp",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
