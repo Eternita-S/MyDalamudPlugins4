@@ -1,6 +1,6 @@
 # MyDalamudPlugins4
-Api V4 testing versions of my plugins.
+Since API4 is now live, this repository is closed until new testing version will be present.
 
-More will be added later!
+Please proceed to my main plugin repository: https://github.com/Eternita-S/MyDalamudPlugins
 
-```https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins4/main/pluginmaster.json```
+```https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json```
